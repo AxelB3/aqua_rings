@@ -1,7 +1,7 @@
 import Phaser from 'phaser';
 import PreloadScene from './scenes/PreloadScene';
 import GameScene from './scenes/GameScene';
-import './style.css';
+import '../style.css';
 
 const config = {
   type: Phaser.AUTO,
