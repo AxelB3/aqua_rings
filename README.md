@@ -20,10 +20,10 @@ La dinámica se centra en simular la física del agua y el movimiento de los ani
 A continuación se muestran algunas capturas de pantalla del juego *Aqua Rings*:
 
 ### Pantalla de inicio
-![Pantalla de inicio](assets/screenshots/Pantalla_Inicio.png)
+![Pantalla de inicio](screenshots/Pantalla_Inicio.png)
 
 ### Juego en progreso
-![Juego en progreso](assets/screenshots/Pantalla_Progreso.png)
+![Juego en progreso](screenshots/Pantalla_Progreso.png)
 
 
 ## Requisitos
