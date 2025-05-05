@@ -9,13 +9,30 @@
 - **Motor de juego**: Se utiliza **Phaser**, un framework poderoso para crear juegos en 2D de manera sencilla y eficiente.
 - **Interfaz de usuario**: La interacción se realiza mediante botones visibles en pantalla que simulan los controles del juguete original.
 - **Lógica del juego**: Al iniciar, se generan 12 anillos que deben ser lanzados hacia las púas mediante los botones. El objetivo es colocar todos los anillos correctamente.
+- **Desarrollo del juego**: Al menos el 95% del código fuente del juego fue desarrollado utilizando IA (chatgpt).
 
 La dinámica se centra en simular la física del agua y el movimiento de los anillos como en el juguete real.
 
 > 🎨 El diseño está inspirado en el juguete *Aqua Rings*, y todos los derechos pertenecen al creador original. Esta aplicación fue creada con fines educativos y no tiene intención comercial.
 
+## 📸 Capturas de pantalla (prompts)
+---
+A continuación se muestran algunas capturas de pantalla de la conversaión con la *IA (chatgpt)*.
 
-## 📸 Capturas de pantalla
+### Contexto Inicial
+Se le proporcionó una imagen de referencia a la IA y un contexto claro de que se buscaba realizar.
+![Contexto Inicial](screenshots/contexto.png)
+
+### Diseño de UI
+Basado en la imagen dada se le pidió el código de la UI.
+![Diseño de UI](screenshots/ui.png)
+
+### Corrección de Error
+En el transcurso del desarrollo se le indico que corrigiera un error.
+![Diseño de UI](screenshots/correccion.png)
+
+
+## 📸 Capturas de pantalla (juego)
 ---
 A continuación se muestran algunas capturas de pantalla del juego *Aqua Rings*:
 
@@ -42,4 +59,3 @@ A continuación se muestran algunas capturas de pantalla del juego *Aqua Rings*:
 4. Ejecutar el comando 'npm start'.
 5. Acceder a 'http://localhost:3000'.
 3. ¡Empieza a jugar!
-
